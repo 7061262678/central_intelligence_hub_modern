@@ -1,3 +1,13 @@
+!\[Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+!\[FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+
+!\[Status](https://img.shields.io/badge/Status-Prototype-success)
+
+!\[License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+
 \# Central Intelligence Hub (Prototype)
 
 
@@ -133,6 +143,18 @@ uvicorn main:app --reload
 \- Add country-level filters and export options
 
 \- Deploy to cloud (Render / AWS / Azure)
+
+
+
+\## Contribution Guidelines
+
+\- Fork the repository
+
+\- Create a feature branch
+
+\- Submit a pull request with clear changes
+
+
 
 
 
