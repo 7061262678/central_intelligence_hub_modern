@@ -1,3 +1,13 @@
+!\[Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+!\[FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+
+!\[Status](https://img.shields.io/badge/Status-Prototype-success)
+
+!\[License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+
 \# Central Intelligence Hub (Prototype)
 
 
